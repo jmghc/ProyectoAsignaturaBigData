@@ -8,6 +8,7 @@ Este proyecto tiene como objetivo analizar cómo diversos factores personales, a
 
 - Identificar relaciones entre variables como presión académica, hábitos de sueño, alimentación, satisfacción con los estudios, historial familiar, etc., y la presencia de síntomas depresivos.
 - Procesar y limpiar los datos eficientemente con **Spark**.
+- Entrenar un modelo usando MLlib.
 - Construir un **dashboard interactivo en Power BI** que facilite la exploración visual de los factores que influyen en la depresión.
 
 ---
