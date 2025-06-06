@@ -1,4 +1,4 @@
-# 🧠 Análisis de Depresión Estudiantil con Apache Spark + Power BI
+# 🧠 Proyecto para Asignatura de Sistema de Big Dara - Análisis de Depresión Estudiantil con Apache Spark + Power BI
 
 Este proyecto tiene como objetivo analizar cómo diversos factores personales, académicos y sociales influyen en la **depresión en estudiantes**, utilizando **Apache Spark** para procesar los datos y **Power BI** para generar visualizaciones interactivas.
 
